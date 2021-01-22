@@ -9,9 +9,8 @@ Dataset ini diambil dan diolah dari website [PT Bursa Efek Indonesia](https://id
 ### Penggunaan Untuk Komersial
 
 Mengacu pada [Syarat Penggunaan](https://idx.co.id/footer-menu/tautan-langsung/syarat-penggunaan/) PT Bursa Efek Indonesia Nomor 5:
-```
-Pengguna dilarang menggunakan atau menyebarluaskan Informasi yang diperoleh dari Website kepada pihak lain untuk tujuan komersial tanpa izin tertulis terlebih dahulu dari Bursa Efek Indonesia dan/atau pemilik asal dari Informasi dan atau data tersebut
-```
+
+> Pengguna dilarang menggunakan atau menyebarluaskan Informasi yang diperoleh dari Website kepada pihak lain untuk tujuan komersial tanpa izin tertulis terlebih dahulu dari Bursa Efek Indonesia dan/atau pemilik asal dari Informasi dan atau data tersebut.
 
 Pengguna dataset ini dilarang keras untuk menggunakan informasi untuk tujuan komersial apapun tanpa persetujuan tertulis dari PT Bursa Efek Indonesia dan/atau pemilik asal data. Pemilik projek ini tidak bertanggungjawab apapun apabila pengguna menyalahi aturan ini dan tidak dapat dituntut secara hukum.
 
