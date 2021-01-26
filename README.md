@@ -1,6 +1,8 @@
 ## Dataset Saham IDX
 
-Projek ini bertujuan untuk menyediakan sebuah dataset untuk para researcher yang ingin belajar/meneliti lebih lanjut terutama mengenai time series analysis. Dataset ini diharapkan agar dapat digunakan untuk tujuan penelitian sekaligus agar dapat meningkatkan pemahaman 
+Projek ini bertujuan untuk menyediakan sebuah dataset untuk para researcher yang ingin belajar/meneliti lebih lanjut terutama mengenai time series analysis. Dataset ini diharapkan agar dapat digunakan untuk tujuan penelitian sekaligus agar dapat meningkatkan pemahaman akan data yang bersifat time series.
+
+Untuk mengetahui fungsi tiap-tiap kolom, silakan baca [Keterangan Nama Kolom](Keterangan%20Nama%20Kolom.md). Apabila Anda mengetahui atau ingin memperbaiki fungsi dari suatu kolom, silakan buka Pull Requests pada repositori ini.
 
 ## Kepemilikan Data
 
