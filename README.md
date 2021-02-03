@@ -1,8 +1,12 @@
-## Dataset Saham IDX
+# Dataset Saham IDX
+
+## Overview
 
 Projek ini bertujuan untuk menyediakan sebuah dataset untuk para researcher yang ingin belajar/meneliti lebih lanjut terutama mengenai time series analysis. Dataset ini diharapkan agar dapat digunakan untuk tujuan penelitian sekaligus agar dapat meningkatkan pemahaman akan data yang bersifat time series.
 
 Untuk mengetahui fungsi tiap-tiap kolom, silakan baca [Keterangan Nama Kolom](Keterangan%20Nama%20Kolom.md). Apabila Anda mengetahui atau ingin memperbaiki fungsi dari suatu kolom, silakan buka Pull Requests pada repositori ini.
+
+Apabila Anda ingin mengetahui bagaimana saya mengumpulkan data ini, kunjungi repositori saya yang berisi scrapper BEI di [sini[(https://github.com/wildangunawan/IDX-Scrapper)
 
 ## Kepemilikan Data
 
@@ -20,4 +24,4 @@ Pengguna dataset ini dilarang keras untuk menggunakan informasi untuk tujuan kom
 
 Projek ini dilisensikan dengan CC BY-NC 4.0. Lisensi ini membatasi Anda untuk tidak menggunakan data atau apapun yang berhubungan dengan projek ini untuk tujuan komersial.
 
-Anda dapat membaca lisensi di [sini](LICENSE.md). Rangkuman pendek dari lisensi ini dapat Anda baca [di sini](https://creativecommons.org/licenses/by-nc/4.0/)
+Anda dapat membaca lisensi di [sini](LICENSE.md). Rangkuman pendek dari lisensi ini dapat Anda baca di [sini](https://creativecommons.org/licenses/by-nc/4.0/)
