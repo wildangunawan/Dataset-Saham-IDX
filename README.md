@@ -6,7 +6,7 @@ Projek ini bertujuan untuk menyediakan sebuah dataset untuk para researcher yang
 
 Untuk mengetahui fungsi tiap-tiap kolom, silakan baca [Keterangan Nama Kolom](Keterangan%20Nama%20Kolom.md). Apabila Anda mengetahui atau ingin memperbaiki fungsi dari suatu kolom, silakan buka Pull Requests pada repositori ini.
 
-Apabila Anda ingin mengetahui bagaimana saya mengumpulkan data ini, kunjungi repositori saya yang berisi scrapper BEI di [sini[(https://github.com/wildangunawan/IDX-Scrapper)
+Apabila Anda ingin mengetahui bagaimana saya mengumpulkan data ini, kunjungi repositori saya yang berisi scrapper BEI di [sini](https://github.com/wildangunawan/IDX-Scrapper)
 
 ## Kepemilikan Data
 
