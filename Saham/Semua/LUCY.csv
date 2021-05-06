@@ -1,2 +1,3 @@
 date,previous,open_price,first_trade,high,low,close,change,volume,value,frequency,index_individual,offer,offer_volume,bid,bid_volume,listed_shares,tradeble_shares,weight_for_index,foreign_sell,foreign_buy,delisting_date,non_regular_volume,non_regular_value,non_regular_frequency
 2021-05-05T00:00:00,100.0,0.0,0.0,110.0,110.0,110.0,10.0,107719700.0,11849167000.0,3625.0,110.0,0.0,0.0,110.0,18901900.0,1035000000.0,337500000.0,0.0,0.0,467000.0,,308390000.0,30839000000.0,8.0
+2021-05-06T00:00:00,110.0,0.0,0.0,121.0,110.0,112.0,2.0,241511500.0,27827447300.0,14920.0,112.0,113.0,1810900.0,112.0,8842400.0,1035000000.0,337500000.0,0.0,3600.0,2759200.0,,2000000.0,240000000.0,2.0
