@@ -1,5 +1,9 @@
 # Dataset Saham IDX
 
+## Catatan
+
+Scraper yang digunakan untuk mengambil data tidak bisa menembus captcha dari Cloudflare saat membuka web IDX, maka dataset ini tidak akan diupdate sampai waktu yang belum ditentukan. Jika Anda bisa menemukan solusinya maka Anda dapat berkontribusi di repository saya yang lain di [sini](https://github.com/wildangunawan/IDX-Scrapper). 
+
 ## Overview
 
 Projek ini bertujuan untuk menyediakan sebuah dataset untuk para researcher yang ingin belajar/meneliti lebih lanjut terutama mengenai time series analysis. Dataset ini diharapkan agar dapat digunakan untuk tujuan penelitian sekaligus agar dapat meningkatkan pemahaman akan data yang bersifat time series.
