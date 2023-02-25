@@ -1,6 +1,6 @@
 # Dataset Saham IDX
 
-## Catatan
+## Catatan - DATASET INI TERAKHIR DIUPDATE PER TANGGAL 16 JULI 2021
 
 Scraper yang digunakan untuk mengambil data tidak bisa menembus captcha dari Cloudflare saat membuka web IDX, maka dataset ini tidak akan diupdate sampai waktu yang belum ditentukan. Jika Anda bisa menemukan solusinya maka Anda dapat berkontribusi di repository saya yang lain di [sini](https://github.com/wildangunawan/IDX-Scrapper). 
 
