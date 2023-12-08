@@ -1,0 +1,2 @@
+date,previous,open_price,first_trade,high,low,close,change,volume,value,frequency,index_individual,offer,offer_volume,bid,bid_volume,listed_shares,tradeble_shares,weight_for_index,foreign_sell,foreign_buy,delisting_date,non_regular_volume,non_regular_value,non_regular_frequency
+2023-12-07T00:00:00,170.0,0.0,0.0,190.0,160.0,162.0,-8.0,196563200.0,33712312800.0,26539.0,95.3,162.0,2936900.0,161.0,457100.0,6334375000.0,1266875000.0,1266875000.0,2877000.0,2799900.0,,100.0,100.0,1.0
