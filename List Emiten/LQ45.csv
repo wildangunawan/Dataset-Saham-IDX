@@ -1,10 +1,11 @@
 code,name,listingDate,shares,listingBoard
-ACES,Ace Hardware Indonesia Tbk.,2007-11-06T00:00:00,17150000000.0,Utama
+ACES,Aspirasi Hidup Indonesia Tbk.,2007-11-06T00:00:00,17150000000.0,Utama
 ADRO,Adaro Energy Indonesia Tbk.,2008-07-16T00:00:00,31985962000.0,Utama
 AKRA,AKR Corporindo Tbk.,1994-10-03T00:00:00,20073474600.0,Utama
+AMMN,Amman Mineral Internasional Tb,2023-07-07T00:00:00,72518217656.0,Utama
 AMRT,Sumber Alfaria Trijaya Tbk.,2009-01-15T00:00:00,41524501700.0,Utama
 ANTM,Aneka Tambang Tbk.,1997-11-27T00:00:00,24030764725.0,Utama
-ARTO,Bank Jago Tbk.,2016-01-12T00:00:00,13717687500.0,Utama
+ARTO,Bank Jago Tbk.,2016-01-12T00:00:00,13718448700.0,Utama
 ASII,Astra International Tbk.,1990-04-04T00:00:00,40483553140.0,Utama
 BBCA,Bank Central Asia Tbk.,2000-05-31T00:00:00,122042299500.0,Utama
 BBNI,Bank Negara Indonesia (Persero,1996-11-25T00:00:00,36924339786.0,Utama
@@ -13,34 +14,33 @@ BBTN,Bank Tabungan Negara (Persero),2009-12-17T00:00:00,13894099969.0,Utama
 BMRI,Bank Mandiri (Persero) Tbk.,2003-07-14T00:00:00,92399999996.0,Utama
 BRIS,Bank Syariah Indonesia Tbk.,2018-05-09T00:00:00,45667877639.0,Utama
 BRPT,Barito Pacific Tbk.,1993-10-01T00:00:00,93747218044.0,Utama
-BUKA,Bukalapak.com Tbk.,2021-08-06T00:00:00,103099967067.0,Ekonomi Baru
-CPIN,Charoen Pokphand Indonesia Tbk,1991-03-18T00:00:00,16398000000.0,UTAMA
-EMTK,Elang Mahkota Teknologi Tbk.,2010-01-12T00:00:00,61316751483.0,Utama
+BUKA,Bukalapak.com Tbk.,2021-08-06T00:00:00,103108797367.0,Ekonomi Baru
+CPIN,Charoen Pokphand Indonesia Tbk,1991-03-18T00:00:00,16398000000.0,Utama
 ESSA,ESSA Industries Indonesia Tbk.,2012-02-01T00:00:00,17226975700.0,Utama
 EXCL,XL Axiata Tbk.,2005-09-29T00:00:00,13128430665.0,Utama
 GGRM,Gudang Garam Tbk.,1990-08-27T00:00:00,1924088000.0,Utama
 GOTO,GoTo Gojek Tokopedia Tbk.,2022-04-11T00:00:00,1201409662836.0,Ekonomi Baru
 HRUM,Harum Energy Tbk.,2010-10-06T00:00:00,13518100000.0,Utama
 ICBP,Indofood CBP Sukses Makmur Tbk,2010-10-07T00:00:00,11661908000.0,Utama
-INCO,Vale Indonesia Tbk.,1990-05-16T00:00:00,9936338720.0,Utama
+INCO,Vale Indonesia Tbk.,1990-05-16T00:00:00,10539784534.0,Utama
 INDF,Indofood Sukses Makmur Tbk.,1994-07-14T00:00:00,8780426500.0,Utama
-INDY,Indika Energy Tbk.,2008-06-11T00:00:00,5210192000.0,Utama
 INKP,Indah Kiat Pulp & Paper Tbk.,1990-07-16T00:00:00,5470982941.0,Utama
 INTP,Indocement Tunggal Prakarsa Tb,1989-12-05T00:00:00,3681231699.0,Utama
+ISAT,Indosat Tbk.,1994-10-19T00:00:00,8062702740.0,Utama
 ITMG,Indo Tambangraya Megah Tbk.,2007-12-18T00:00:00,1129925000.0,Utama
 KLBF,Kalbe Farma Tbk.,1991-07-30T00:00:00,46875122110.0,Utama
 MAPI,Mitra Adiperkasa Tbk.,2004-11-10T00:00:00,16600000000.0,Utama
-MDKA,Merdeka Copper Gold Tbk.,2015-06-19T00:00:00,24110850771.0,Utama
+MBMA,Merdeka Battery Materials Tbk.,2023-04-18T00:00:00,107995419900.0,Pengembangan
+MDKA,Merdeka Copper Gold Tbk.,2015-06-19T00:00:00,24472983771.0,Utama
 MEDC,Medco Energi Internasional Tbk,1994-10-12T00:00:00,25136231252.0,Utama
+MTEL,Dayamitra Telekomunikasi Tbk.,2021-11-22T00:00:00,83552719544.0,Utama
 PGAS,Perusahaan Gas Negara Tbk.,2003-12-15T00:00:00,24241508196.0,Utama
+PGEO,Pertamina Geothermal Energy Tb,2023-02-24T00:00:00,41495007591.0,Utama
 PTBA,Bukit Asam Tbk.,2002-12-23T00:00:00,11520659250.0,Utama
-SCMA,Surya Citra Media Tbk.,2002-07-16T00:00:00,73970569505.0,Utama
 SIDO,Industri Jamu dan Farmasi Sido,2013-12-18T00:00:00,30000000000.0,Utama
 SMGR,Semen Indonesia (Persero) Tbk.,1991-07-08T00:00:00,6751540089.0,Utama
 SRTG,Saratoga Investama Sedaya Tbk.,2013-06-26T00:00:00,13564835000.0,Utama
-TBIG,Tower Bersama Infrastructure T,2010-10-26T00:00:00,22656999445.0,Utama
 TLKM,Telkom Indonesia (Persero) Tbk,1995-11-14T00:00:00,99062216600.0,Utama
 TOWR,Sarana Menara Nusantara Tbk.,2010-03-08T00:00:00,51014625000.0,Utama
-TPIA,Chandra Asri Petrochemical Tbk,2008-05-26T00:00:00,86511545092.0,Pengembangan
 UNTR,United Tractors Tbk.,1989-09-19T00:00:00,3730135136.0,Utama
 UNVR,Unilever Indonesia Tbk.,1982-01-11T00:00:00,38150000000.0,Utama
