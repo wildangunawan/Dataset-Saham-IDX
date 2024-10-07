@@ -38,4 +38,4 @@ Anda dapat membaca lisensi di [sini](LICENSE.md). Rangkuman pendek dari lisensi 
 
 ## Jajan?
 
-Kalau dataset ini membantu Anda dalam pekerjaan, penelitian, atau apapun itu, mungkin boleh beliin saya jajan biar makin sering update? https://www.nihbuatjajan.com/wildangunawan hehe 😅✌️
+Kalau dataset ini membantu Anda dalam pekerjaan, penelitian, atau apapun itu, mungkin boleh beliin saya jajan biar makin sering update? [https://trakteer.id/wildangunawan](https://trakteer.id/wildangunawan/tip) 😅✌️
